@@ -1,4 +1,4 @@
-FRED J:
+FRED J::
 
 run all typescripts with bun:
 
